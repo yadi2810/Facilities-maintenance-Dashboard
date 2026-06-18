@@ -46,6 +46,7 @@ The dataset and findings mirror real responsibilities carried out during 5+ year
 - Job volumes peak in **Q2–Q3** (May–August), likely driven by planned summer maintenance
 - **CoolAir Services** handles the most HVAC jobs but has the longest average closure time
 - **3 jobs** are currently open/pending, including 1 High priority Fire Safety inspection
+- ![Dashboard](dashboard_screenshot.png)
 
 ---
 

@@ -77,4 +77,4 @@ Facilities Coordinator with 5+ years of experience at RCSI, Dublin.
 Certified in: Google Data Analytics · ICDL Professional Data Analytics · IWFM Level 4 · CompTIA Tech+ · QQI Level 6 Supervisory Management.
 
 📧 punj28@yahoo.com  
-🔗 [LinkedIn Profile URL]
+🔗 www.linkedin.com/in/yadvinder-punj
